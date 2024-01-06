@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:tube_coral"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "item": "minecraft:blue_dye",
+      "count": 1
+    },
+    {
+      "chance": 0.4,
+      "item": "minecraft:blue_dye"
+    }
+  ]
+}

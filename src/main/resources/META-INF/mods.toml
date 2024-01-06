@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="createzincautomation"
+version="1.0.0"
+displayName="Create Zinc Automation"
+displayURL="https://github.com/HiSkyZen/CreateZincAutomation"
+logoFile="pack.png"
+authors="HiSkyZen"
+description="The Way to Build a Zinc Automation Industry on Create"
+
+[[dependencies.createzincautomation]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.modid]]
+    modId="create"
+    mandatory=true
+    versionRange="[0.5.1.f,)"
+    ordering="NONE"
+    side="BOTH"
+
